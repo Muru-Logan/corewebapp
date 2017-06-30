@@ -1,0 +1,11 @@
+E:\sandbox\core\corewebapp\corewebapp\bin\Debug\netcoreapp1.1\corewebapp.deps.json
+E:\sandbox\core\corewebapp\corewebapp\bin\Debug\netcoreapp1.1\corewebapp.runtimeconfig.json
+E:\sandbox\core\corewebapp\corewebapp\bin\Debug\netcoreapp1.1\corewebapp.runtimeconfig.dev.json
+E:\sandbox\core\corewebapp\corewebapp\bin\Debug\netcoreapp1.1\corewebapp.dll
+E:\sandbox\core\corewebapp\corewebapp\bin\Debug\netcoreapp1.1\corewebapp.pdb
+E:\sandbox\core\corewebapp\corewebapp\bin\Debug\netcoreapp1.1\Core.Business.dll
+E:\sandbox\core\corewebapp\corewebapp\bin\Debug\netcoreapp1.1\Core.Business.pdb
+E:\sandbox\core\corewebapp\corewebapp\obj\Debug\netcoreapp1.1\corewebapp.csprojResolveAssemblyReference.cache
+E:\sandbox\core\corewebapp\corewebapp\obj\Debug\netcoreapp1.1\corewebapp.AssemblyInfo.cs
+E:\sandbox\core\corewebapp\corewebapp\obj\Debug\netcoreapp1.1\corewebapp.dll
+E:\sandbox\core\corewebapp\corewebapp\obj\Debug\netcoreapp1.1\corewebapp.pdb

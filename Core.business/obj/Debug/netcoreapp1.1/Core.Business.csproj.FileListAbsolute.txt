@@ -1,0 +1,7 @@
+E:\sandbox\core\corewebapp\Core.business\bin\Debug\netcoreapp1.1\Core.Business.deps.json
+E:\sandbox\core\corewebapp\Core.business\bin\Debug\netcoreapp1.1\Core.Business.dll
+E:\sandbox\core\corewebapp\Core.business\bin\Debug\netcoreapp1.1\Core.Business.pdb
+E:\sandbox\core\corewebapp\Core.business\obj\Debug\netcoreapp1.1\Core.Business.csprojResolveAssemblyReference.cache
+E:\sandbox\core\corewebapp\Core.business\obj\Debug\netcoreapp1.1\Core.Business.AssemblyInfo.cs
+E:\sandbox\core\corewebapp\Core.business\obj\Debug\netcoreapp1.1\Core.Business.dll
+E:\sandbox\core\corewebapp\Core.business\obj\Debug\netcoreapp1.1\Core.Business.pdb

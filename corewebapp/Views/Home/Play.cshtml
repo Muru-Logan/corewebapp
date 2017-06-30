@@ -1,0 +1,28 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    ViewData["Title"] = "Lets play!!!";
+}
+
+<div>
+    <h2>Welcome to Play Area</h2>
+
+    <h3>Please enter the text to reverse</h3>
+    <input id="anyvalue" type="text" />
+    <input id="btn_reverse" type="button" value="reverse"/>
+    <input id="btn_clear" type="button" value="clear" />
+    <br/><br />
+   
+    <label id="result"></label>
+    <br />
+    <br />
+    <label id="status"></label>
+</div>
+
+@section scripts{
+    <script type="text/javascript">
+        require(['play']);
+    </script>
+   
+  } 

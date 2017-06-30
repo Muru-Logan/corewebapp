@@ -1,0 +1,14 @@
+E:\sandbox\core\corewebapp\Core.UnitTest\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\sandbox\core\corewebapp\Core.UnitTest\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\sandbox\core\corewebapp\Core.UnitTest\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\sandbox\core\corewebapp\Core.UnitTest\bin\Debug\netcoreapp1.1\Core.UnitTest.deps.json
+E:\sandbox\core\corewebapp\Core.UnitTest\bin\Debug\netcoreapp1.1\Core.UnitTest.runtimeconfig.json
+E:\sandbox\core\corewebapp\Core.UnitTest\bin\Debug\netcoreapp1.1\Core.UnitTest.runtimeconfig.dev.json
+E:\sandbox\core\corewebapp\Core.UnitTest\bin\Debug\netcoreapp1.1\Core.UnitTest.dll
+E:\sandbox\core\corewebapp\Core.UnitTest\bin\Debug\netcoreapp1.1\Core.UnitTest.pdb
+E:\sandbox\core\corewebapp\Core.UnitTest\bin\Debug\netcoreapp1.1\Core.Business.dll
+E:\sandbox\core\corewebapp\Core.UnitTest\bin\Debug\netcoreapp1.1\Core.Business.pdb
+E:\sandbox\core\corewebapp\Core.UnitTest\obj\Debug\netcoreapp1.1\Core.UnitTest.csprojResolveAssemblyReference.cache
+E:\sandbox\core\corewebapp\Core.UnitTest\obj\Debug\netcoreapp1.1\Core.UnitTest.AssemblyInfo.cs
+E:\sandbox\core\corewebapp\Core.UnitTest\obj\Debug\netcoreapp1.1\Core.UnitTest.dll
+E:\sandbox\core\corewebapp\Core.UnitTest\obj\Debug\netcoreapp1.1\Core.UnitTest.pdb
